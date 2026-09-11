@@ -1,0 +1,61 @@
+﻿TERMOS DE USO — ZERO DASHBOARD
+
+Leia estes termos antes de instalar o software.
+
+1. LICENÇA DE USO GRATUITA
+O Zero Dashboard é um software proprietário distribuído gratuitamente. O
+titular dos direitos concede ao usuário uma licença gratuita, não exclusiva e
+não transferível para instalar e usar o software, sem prazo determinado e sem
+qualquer cobrança.
+
+Ser gratuito não torna o software de código aberto nem de domínio público: o
+titular mantém todos os direitos sobre ele, e nenhum direito de propriedade é
+transferido ao usuário.
+
+2. DOAÇÕES
+O software não exige pagamento. Eventuais doações são voluntárias, não compram
+licença, funcionalidade, prioridade, suporte, garantia ou prazo de atendimento,
+e não criam qualquer obrigação do titular dos direitos perante o doador.
+
+3. RESTRIÇÕES
+Não é permitido revender, sublicenciar, alugar, descompilar, fazer engenharia
+reversa ou criar obras derivadas do software sem autorização prévia e por
+escrito do titular dos direitos.
+
+É permitido repassar o instalador original, sem modificação, desde que
+gratuitamente e mantendo estes termos junto. Não é permitido redistribuir
+versões alteradas nem cobrar por qualquer forma de distribuição.
+
+4. CREDENCIAIS E DADOS
+O software opera sobre as credenciais de nuvem configuradas na própria máquina
+do usuário (por exemplo, ~/.oci/config, ~/.aws/credentials e as configurações
+salvas em %USERPROFILE%\.config\oci_gui\). Essas credenciais permanecem locais
+e sob responsabilidade do usuário. O software executa as operações que o
+usuário solicitar nas contas de nuvem às quais essas credenciais dão acesso —
+incluindo operações destrutivas, quando explicitamente acionadas.
+
+O software não envia dados de uso, credenciais ou telemetria ao titular dos
+direitos.
+
+5. CUSTOS NOS PROVEDORES DE NUVEM
+As operações realizadas por meio do software podem gerar cobrança nas contas
+dos provedores de nuvem do usuário. Esses custos são de responsabilidade
+exclusiva do usuário, ainda que o software seja gratuito.
+
+6. AUSÊNCIA DE GARANTIA
+O software é fornecido "no estado em que se encontra", sem garantias de
+qualquer natureza, expressas ou implícitas, incluindo adequação a uma
+finalidade específica ou operação ininterrupta e livre de erros. Por ser
+gratuito, também não há compromisso de manutenção, correção de falhas,
+atualização ou continuidade da distribuição.
+
+7. LIMITAÇÃO DE RESPONSABILIDADE
+Na máxima extensão permitida pela legislação aplicável, o titular dos direitos
+não se responsabiliza por danos diretos, indiretos, incidentais ou
+consequenciais decorrentes do uso ou da impossibilidade de uso do software,
+incluindo perda de dados, indisponibilidade de serviços ou custos incorridos
+em provedores de nuvem.
+
+8. ACEITE
+Ao prosseguir com a instalação, o usuário declara ter lido e concordado com
+estes termos.

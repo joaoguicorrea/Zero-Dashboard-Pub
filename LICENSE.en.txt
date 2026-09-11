@@ -1,0 +1,61 @@
+﻿TERMS OF USE — ZERO DASHBOARD
+
+Please read these terms before installing the software.
+
+This is a courtesy translation. The Brazilian Portuguese version
+(EULA.txt) is the binding one; if the two disagree, it prevails.
+
+1. FREE LICENSE
+Zero Dashboard is proprietary software distributed free of charge. The
+rights holder grants you a free, non-exclusive, non-transferable licence to
+install and use the software, with no time limit and at no cost.
+
+Being free of charge does not make the software open source or public
+domain: the rights holder retains all rights to it, and no ownership is
+transferred to the user.
+
+2. DONATIONS
+The software requires no payment. Any donation is voluntary. It does not buy
+a licence, a feature, priority, support, a warranty or a response time, and
+creates no obligation of the rights holder towards the donor.
+
+3. RESTRICTIONS
+You may not resell, sublicense, rent, decompile, reverse engineer or create
+derivative works from the software without prior written permission from the
+rights holder.
+
+You may pass on the original installer, unmodified, provided you do so free
+of charge and keep these terms with it. You may not redistribute modified
+versions, nor charge for distribution in any form.
+
+4. CREDENTIALS AND DATA
+The software operates on the cloud credentials configured on the user's own
+machine (for example ~/.oci/config, ~/.aws/credentials and the settings
+stored in %USERPROFILE%\.config\oci_gui\). Those credentials stay local and
+remain the user's responsibility. The software performs whatever operations
+the user requests on the cloud accounts those credentials give access to —
+including destructive ones, when explicitly triggered.
+
+The software sends no usage data, credentials or telemetry to the rights
+holder.
+
+5. CLOUD PROVIDER COSTS
+Operations performed through the software may incur charges on the user's
+cloud provider accounts. Those costs are solely the user's responsibility,
+even though the software itself is free.
+
+6. NO WARRANTY
+The software is provided "as is", without warranties of any kind, express or
+implied, including fitness for a particular purpose or uninterrupted,
+error-free operation. Because it is free of charge, there is also no
+commitment to maintenance, bug fixing, updates or continued distribution.
+
+7. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, the rights holder is not
+liable for any direct, indirect, incidental or consequential damages arising
+from the use of or inability to use the software, including data loss,
+service unavailability or costs incurred with cloud providers.
+
+8. ACCEPTANCE
+By proceeding with the installation, you declare that you have read and
+agree to these terms.

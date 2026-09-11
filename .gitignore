@@ -1,0 +1,12 @@
+# Nada de build, binário ou credencial neste repositório.
+# Ele guarda apenas documentação pública.
+*.exe
+*.deb
+*.rpm
+*.AppImage
+*.zip
+*.pem
+*.key
+*.ini
+.DS_Store
+Thumbs.db
